@@ -1,0 +1,14 @@
+web/ShowProfilesServlet.class
+web/RegisterServlet.class
+web/filters/UserDataInSessionFilter.class
+repositories/DummyUserRepository.class
+web/filters/PremiumOnlyAccessFilter.class
+domain/Validate.class
+web/filters/UserIsNotAdminFilter.class
+domain/HSQLDBConnect.class
+web/LoginServlet.class
+domain/User.class
+web/SetPremiumServlet.class
+repositories/IUserRepository.class
+web/filters/UserDataNotInSessionFilter.class
+web/ProfileServlet.class

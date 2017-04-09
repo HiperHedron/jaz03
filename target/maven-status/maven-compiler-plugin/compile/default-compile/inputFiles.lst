@@ -1,0 +1,14 @@
+/home/student/git/jz02/src/main/java/domain/HSQLDBConnect.java
+/home/student/git/jz02/src/main/java/web/LoginServlet.java
+/home/student/git/jz02/src/main/java/web/ProfileServlet.java
+/home/student/git/jz02/src/main/java/repositories/DummyUserRepository.java
+/home/student/git/jz02/src/main/java/web/filters/UserIsNotAdminFilter.java
+/home/student/git/jz02/src/main/java/domain/User.java
+/home/student/git/jz02/src/main/java/web/RegisterServlet.java
+/home/student/git/jz02/src/main/java/web/filters/PremiumOnlyAccessFilter.java
+/home/student/git/jz02/src/main/java/web/filters/UserDataInSessionFilter.java
+/home/student/git/jz02/src/main/java/web/ShowProfilesServlet.java
+/home/student/git/jz02/src/main/java/web/filters/UserDataNotInSessionFilter.java
+/home/student/git/jz02/src/main/java/domain/Validate.java
+/home/student/git/jz02/src/main/java/web/SetPremiumServlet.java
+/home/student/git/jz02/src/main/java/repositories/IUserRepository.java
